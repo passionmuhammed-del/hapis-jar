@@ -1,0 +1,8 @@
+name: HapisPlugin
+main: com.example.hapisplugin.HapisPlugin
+version: 1.0
+api-version: 1.19
+commands:
+  hapis:
+    description: Oyuncuyu hapise atar veya süresini azaltır.
+    usage: /hapis [süre] veya /hapis çıkart [süre]
